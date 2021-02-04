@@ -36,7 +36,7 @@ php bin/phpunit src/testsService/SlugifyTest.php
 
 - [Wireframe sur figma](https://www.figma.com/file/o25j8XGkbFlp3nk6zXFJsI/Untitled?node-id=0%3A1)
 
-- [Product Backlog](https://drive.google.com/file/d/1oe748uUQy_3vJvSBFOMme7-C5lAUlwY3/view?usp=sharing)
+- [Product Backlog](https://docs.google.com/spreadsheets/d/16hesKSIYT8ZDQBLAv9XyRpjDN1AuEzzcYX-2u5iGHOw/edit?usp=sharing)
 
 - [Modélisation de la DB](https://drive.google.com/file/d/1ldBDFDt9BsTRv1VbwfyIPwT7MVpMfxvi/view?usp=sharing)
 
