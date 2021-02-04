@@ -7,19 +7,30 @@ Concevoir une application de type CV en ligne, responsive, intégrant service et
 ## Utilisation du dépôt
 
 git clone https://github.com/caroww/checkpoint4-CV.git
+
 composer install
+
 yarn install
+
 configurer .env.local
+
 importer la base de données checkpoint4.sql
-console doctrine:fixtures:load --group=UserFixtures --append 
+
+console doctrine:fixtures:load --group=UserFixtures --append
+
 php bin/console doctrine:schema:update --force
+
 configurer mailer pour envoie de mail de la partie contact
+
 
 ## Utilisation du TDD:
 
 composer require --dev symfony/phpunit-bridge
+
 php bin/phpunit
+
 php bin/phpunit src/testsService/SlugifyTest.php
+
 
 ## Outils oraganisationnels :
 
